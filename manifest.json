@@ -1,0 +1,14 @@
+{
+  "name": "Штаб · Сторож",
+  "short_name": "Сторож",
+  "description": "Чат со Штабом и слежение за сервером",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
